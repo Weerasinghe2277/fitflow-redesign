@@ -28,4 +28,4 @@ See `docs/tech-stack-summary.md` and `docs/comparison-matrix.xlsx` for the full 
 - Lab 05 – Technology Selection and Architecture Design (this repository)
 
 ## Author
-IT23829992 – Jayathunga I.T.N. – Group 2.1 WD
+IT23714052– Weerasinghe P.L – Group 1.1 WD
